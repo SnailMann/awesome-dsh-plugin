@@ -1,0 +1,7 @@
+url: https://github.com/SnailMann/dsh-credit-checkin-hub
+name: SnailMann/dsh-credit-checkin-hub
+category: usage
+description:
+  en: Scheduled daily credit check-in for Trae CN, WorkBuddy, Qoder and MiniMax Code with per-platform toggles and history.
+  zh: 每天定时为 Trae CN、WorkBuddy、Qoder、MiniMax Code 领取每日积分，支持平台开关与签到记录。
+icon: https://raw.githubusercontent.com/SnailMann/dsh-credit-checkin-hub/main/icon.png
